@@ -31,6 +31,14 @@
       "type": "outcome",
       "createdAt": "2023-06-11T17:03:08.387Z",
       "id": 4
+    },
+    {
+      "description": "Salario",
+      "price": 5000,
+      "category": "Salario",
+      "type": "income",
+      "createdAt": "2023-06-11T22:38:53.661Z",
+      "id": 5
     }
   ]
 }
